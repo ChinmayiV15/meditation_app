@@ -4,9 +4,6 @@
 -------------  
   
 ### Flutter Version Used : 2.5.3 
-### Desing Credit : By  [Afsar Hossen](https://www.linkedin.com/in/afsar-shuvo/)  
-### Desing Files on Figma : [Meditation app UI](https://www.figma.com/community/file/882888114457713282)  
-
 <p>
    <img src="screenshots/board.png" />
 </p>
